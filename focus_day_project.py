@@ -1,2 +1,8 @@
-# Welcome to your Focus Day Project. Replace this comment with something that introduces the user to your project. Be sure to mention the Focus Day and your initials and graduation year. (ie This game is for Pool Volume Day and is written by ML '23.)
-# Also, be sure to use comments throughout your program. Use good programming practices, including organization, documentation and citation. Yes, you need to cite your sources! (You can do so using comments at the bottom of your code.)
+## Hello Middle Eighth Grader, This project is to test your knowledge and to see your ability to make smart and safe decisions if you were ever to be stuck on a stranded island!
+#You will be asked several two option questions, one answer is correct and if you choose it you will move on to the next question, if you choose the incorrect answer you will have to start over again.
+
+# One day you decided to hop on a plane and go on a short vacation. While you were in the air the plane started having a bunch of turbulance. You thought it was nothing so you decided to take a nap. The moment you wake up everyonen around you is screaming and you can tell the plane is going down. You start freaking out. You are so scared that you completely black out. 
+# The next thing you know, your beached on an island. Youre alone, scared, confused, and the only thing you have is the pocket knife you keep in your back pocket at all times. 
+# What do you do now?
+
+Input: "What do you do first?" 
