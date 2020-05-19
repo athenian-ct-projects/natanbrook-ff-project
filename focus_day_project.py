@@ -12,26 +12,26 @@ while questionone == questionones:
 else:
     print("you got it wrong!")
 
-questiontwo = input("What is the first thing you should do/look for?- a.)water. b.) food")
+questiontwo = input("What is the first thing you should look for?- a.)water. b.) food")
 questiontwos = ("a")
 while questiontwo == questiontwos:
     print("you got it right!")
 else:
     print("you got it wrong!")
 
-questionthree = input("What is the #1 thing that you should never lose?- a.)Your pocket knife. b.) Your clothes")
-questionthrees = ("a")
+questionthree = input("Where should you make your camp?- a.)near many trees. b.) near the shore")
+questionthrees = ("b")
 while questionthree == questionthrees:
     print("you got it right!")
 else:
-    print("you got it wrong!")
+    print("you got it wrong! You need to stay on the shore in case someone is flying over and can see you!")
 
-questionfour = input("What is the #1 thing that you should never lose?- a.)Your pocket knife. b.) Your clothes")
-questionfours = ("a")
+questionfour = input("You see random berries sitting on a bush, what do you do?- a.) Eat them! b.) Leave them be")
+questionfours = ("b")
 while questionfour == questionfours:
     print("you got it right!")
 else:
-    print("you got it wrong!")
+    print("you got it wrong! Never eat unidentified berries!")
 
 questionfive = input("What is the #1 thing that you should never lose?- a.)Your pocket knife. b.) Your clothes")
 questionfives = ("a")
@@ -47,30 +47,30 @@ while questionsix == questionsixs:
 else:
     print("you got it wrong!")
 
-questionone = input("What is the #1 thing that you should never lose?- a.)Your pocket knife. b.) Your clothes")
-questionones = ("a")
-while questionone == questionones:
+questionseven = input("What is the #1 thing that you should never lose?- a.)Your pocket knife. b.) Your clothes")
+questionsevens = ("a")
+while questionseven == questionsevens:
     print("you got it right!")
 else:
     print("you got it wrong!")
 
-questionone = input("What is the #1 thing that you should never lose?- a.)Your pocket knife. b.) Your clothes")
-questionones = ("a")
-while questionone == questionones:
+questioneight = input("What is the #1 thing that you should never lose?- a.)Your pocket knife. b.) Your clothes")
+questioneights = ("a")
+while questioneight == questioneights:
     print("you got it right!")
 else:
     print("you got it wrong!")
 
-questionone = input("What is the #1 thing that you should never lose?- a.)Your pocket knife. b.) Your clothes")
-questionones = ("a")
-while questionone == questionones:
+questionnine = input("What is the #1 thing that you should never lose?- a.)Your pocket knife. b.) Your clothes")
+questionnines = ("a")
+while questionnine == questionnines:
     print("you got it right!")
 else:
     print("you got it wrong!")
 
-questionone = input("What is the #1 thing that you should never lose?- a.)Your pocket knife. b.) Your clothes")
-questionones = ("a")
-while questionone == questionones:
+questionten = input("What is the #1 thing that you should never lose?- a.)Your pocket knife. b.) Your clothes")
+questiontens = ("a")
+while questionten == questiontens:
     print("you got it right!")
 else:
     print("you got it wrong!")
