@@ -1,5 +1,5 @@
 # Project Description
-* Focus Day: 
+* Focus Day: Robinson Crusoe Day 
 
 written by Natan Brook
 
