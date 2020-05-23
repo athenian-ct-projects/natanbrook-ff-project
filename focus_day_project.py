@@ -12,7 +12,7 @@ while questionone == questionones:
   break 
 else:
     print("you got it wrong!")
-
+#all of the questions will be set up like this, two options and one answer.
 questiontwo = input("What is the first thing you should look for?- a.)water. b.) food")
 questiontwos = ("a")
 while questiontwo == questiontwos:
@@ -20,7 +20,7 @@ while questiontwo == questiontwos:
     break
 else:
     print("you got it wrong!")
-
+#a lot of questions will just be testing knowledge on facts 
 questionthree = input("Where should you make your camp?- a.)near many trees. b.) near the shore")
 questionthrees = ("b")
 while questionthree == questionthrees:
@@ -84,3 +84,5 @@ while questionten == questiontens:
     break
 else:
     print("you got it wrong!")
+
+print("Good job you finished!! You survived ten questions about being stranded on an island!!")
