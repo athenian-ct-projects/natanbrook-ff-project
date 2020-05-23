@@ -5,10 +5,11 @@
 # The next thing you know, your beached on an island. Youre alone, scared, confused, and the only thing you have is the pocket knife you keep in your back pocket at all times. 
 # What do you do now?
 
-questionone = input("What is the #1 thing that you should never lose?- a.)Your pocket knife. b.) Your clothes")
+questionone = input("What is the #1 thing that you should never lose?- a.)Your clothes. b.) Your pocket knife")
 questionones = ("a")
 while questionone == questionones:
-    print("you got it right!")
+  print("you got it right!")
+  break 
 else:
     print("you got it wrong!")
 
@@ -16,6 +17,7 @@ questiontwo = input("What is the first thing you should look for?- a.)water. b.)
 questiontwos = ("a")
 while questiontwo == questiontwos:
     print("you got it right!")
+    break
 else:
     print("you got it wrong!")
 
@@ -23,6 +25,7 @@ questionthree = input("Where should you make your camp?- a.)near many trees. b.)
 questionthrees = ("b")
 while questionthree == questionthrees:
     print("you got it right!")
+    break
 else:
     print("you got it wrong! You need to stay on the shore in case someone is flying over and can see you!")
 
@@ -30,6 +33,7 @@ questionfour = input("You see random berries sitting on a bush, what do you do?-
 questionfours = ("b")
 while questionfour == questionfours:
     print("you got it right!")
+    break
 else:
     print("you got it wrong! Never eat unidentified berries!")
 
@@ -37,6 +41,7 @@ questionfive = input("What is the most dangerous sea life animal you could encou
 questionfives = ("b")
 while questionfive == questionfives:
     print("you got it right!")
+    break
 else:
     print("you got it wrong! Sea Wasp Jellyfish are the most dangerous creatures in the ocean")
 
@@ -44,6 +49,7 @@ questionsix = input("What is the most deadly land animal you could encounter?- a
 questionsixs = ("a")
 while questionsix == questionsixs:
     print("you got it right!")
+    break
 else:
     print("you got it wrong!")
 
@@ -51,6 +57,7 @@ questionseven = input(" What is one insect that you need to always be looking ou
 questionsevens = ("a")
 while questionseven == questionsevens:
     print("you got it right!")
+    break
 else:
     print("you got it wrong! Mosquitos have the highest kill rate than any other insect!")
 
@@ -58,6 +65,7 @@ questioneight = input("How long can you survive without food?- a.)5 days. b.) th
 questioneights = ("b")
 while questioneight == questioneights:
     print("you got it right!")
+    break
 else:
     print("you got it wrong!")
 
@@ -65,6 +73,7 @@ questionnine = input("What plants can you use for a soap replacement?- a.)Sunflo
 questionnines = ("b")
 while questionnine == questionnines:
     print("you got it right!")
+    break
 else:
     print("you got it wrong!")
 
@@ -72,5 +81,6 @@ questionten = input("How long can you survive without water?- a.) 6 days. b.) 3 
 questiontens = ("b")
 while questionten == questiontens:
     print("you got it right!")
+    break
 else:
     print("you got it wrong!")
